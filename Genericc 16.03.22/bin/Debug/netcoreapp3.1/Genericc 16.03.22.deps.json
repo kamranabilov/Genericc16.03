@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Genericc 16.03.22/1.0.0": {
+        "runtime": {
+          "Genericc 16.03.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Genericc 16.03.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
